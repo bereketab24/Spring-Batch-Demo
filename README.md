@@ -10,7 +10,7 @@ This project is a demonstration of a robust **ETL (Extract, Transform, Load)** p
 * **In-Memory Persistence**: Uses H2 database for zero-configuration storage.
 
 
-## 🏃‍♂️ How to Run
+## ️ How to Run
 
 1.  Clone the repository.
 2.  Open your terminal in the project root.
